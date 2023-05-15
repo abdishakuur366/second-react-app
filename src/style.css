@@ -1,28 +1,10 @@
-/* h1{
+.st{
     background-color: blue;
-    color: white;
-} */
-navbar{
-    text-decoration: none;
-    display: flex;
-    justify-content: end;
-    flex-direction: row;
-
+    color: azure;
+    font-size: larger;
+    border-radius: 15%;
 }
-navbar a{
-    color: black;
-    text-decoration: none;
-    margin: 8px;
-    font-size: 20px;
-}
-a:hover{
-    
+li{
     color: blue;
-}
-
-.logo{
-    justify-content: start;
-    font-size: 30px;
-    margin-top: 60px;
-    color: blue;
+    font-size: 40px;
 }

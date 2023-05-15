@@ -1,0 +1,15 @@
+.header {
+   
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
+  .header img {
+    margin-right: 1140px;
+    margin-top:20px ;
+  }
+
+  
